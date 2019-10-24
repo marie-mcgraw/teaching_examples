@@ -1,0 +1,10 @@
+#Do  not include these files#
+#Basic#
+*.zip
+*.dmg
+*.tar
+*.log
+
+#Data files#
+*.nc
+
