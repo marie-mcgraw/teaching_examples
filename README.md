@@ -1,2 +1,2 @@
 # teaching_examples
-example notebooks for Hacky Hours, teaching, and other didactic activities
+example notebooks for Hacky Hours and other didactic activities
